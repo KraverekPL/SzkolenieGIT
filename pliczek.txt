@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Wawrzek lubi banany.
+=======
+ple ple ple ple 
+>>>>>>> 7635b2751505cd3943eec85742f095096ac7ca6b
